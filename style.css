@@ -1,0 +1,25 @@
+.body {
+  background-color: rgb(255, 241, 241);
+}
+
+.head {
+  font-family: "Times New Roman", sans-serif;
+  font-style: italic;
+  font-size: 37px;
+  color: black;
+}
+
+.head-main {
+  font-style: normal;
+  font-size: 45px;
+}
+
+#recipes {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+.home {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
